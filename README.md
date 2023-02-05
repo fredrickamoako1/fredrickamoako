@@ -5,4 +5,4 @@ Hey there 👋
 🖥️ I’m currently working on nothing
 🌱 I’m currently learning C# with ASP .NET and SQL
 ⚡ Fun fact: 
-📫 How to reach me: 
+📫 How to reach me:
